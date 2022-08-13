@@ -1,0 +1,57 @@
+img {
+    height: 15em;
+    vertical-align: middle;
+    float:right;
+}
+body {
+    background-image: url(http://bgfons.com/uploads/light/light_texture2269.jpg);
+    margin: 0%;
+}
+#profilePic {
+    background-color: rgb(169, 231, 192);
+    float: left;
+}
+header {
+    border: 5px solid violet;
+}
+.profile {
+    background-color: #76528BFF;
+    display: flex;
+}
+
+li {
+    padding: 0.5em 1em;
+    background-color: #CBCE91FF;
+    margin: 0.5em 1em;
+}
+#introduction {
+    background-color:seashell;
+}
+main {
+    margin: 45px 0;
+}
+main h2 {
+    background-color: #00203FFF;
+    color: #ADEFD1FF;
+}
+h2 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2.7em
+}
+h3 {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 2em;
+    margin: 8px 0 ;
+}
+h4 {
+    font-size: 2em;
+    font-weight: bold;
+    border: 3px solid red;
+    margin: 5px 0 10px;
+}
+p {
+    font-size:25px;
+}
+#projectIdea {
+    background-color: navajowhite;
+}
